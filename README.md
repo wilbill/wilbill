@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilbill
-- 👀 I’m interested in SpringBoot, Mysql, Node, Express, Mongo and React. My favorite langauges are Java, python, JS
+- 👀 I’m interested in SpringBoot, Mysql, Node, Express, Mongo and React. My Langauges are Java, python & JS
 - 🌱 I’m constantly learning since it's part of the process
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me on twitter @billy71977966
