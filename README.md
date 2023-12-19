@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilbill
-- 👀 I’m interested in in web technologies (html,css,js), langauges python and php
-- 🌱 I’m currently learning penetration testing and bugbounties
-- 💞️ I’m looking to collaborate on all open source projects
+- 👀 I’m interested in SpringBoot, Node, Express, Mongo and Mysql. langauges Java, python, JS
+- 🌱 I’m constantly learning since it's part of the process
+- 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me on twitter @billy71977966
 
 <!---
