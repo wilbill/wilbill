@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wilbill (Billy Ntabazi)
-- 👀 I’m interested in Machine Learning, SpringBoot, Mysql, Node, React, Express & Mongo. My Langauges are Java, python & JS
+- 👀 I’m interested in Machine Learning, SpringBoot, Mysql, React, Express & Mongo. My Langauges are Java, python & JS
 - 🌱 I’m constantly learning since it's part of the process
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me on twitter @billy71977966
